@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://github.com/STYAI)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
 
-I'm currently a master student in the National Institute of Health Data Science at Peking University, and I received my Bachelor’s degree of Computer Science in June 2023. 
+I'm currently a master student at Peking University, and I received my Bachelor’s degree of Computer Science in June 2023. 
 
 - 🔭 I worked on Healthcare Informatics, LLMs, Data Science & AI for Medicine.
 - 🌱 I visited and exchanged at Harvard University learning big data and machine learning, which benefited me a lot.
