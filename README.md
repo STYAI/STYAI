@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 I'm currently a master student in the National Institute of Health Data Science at Peking University, and I received my Bachelor’s degree of Computer Science in June 2023. 
 
-- 🌱 I also visited and exchanged at Harvard University learning big data and machine learning, which benefited me a lot.
+- 🔭 I worked on Healthcare Informatics, LLM, Data Science & AI for Medicine.
+- 🌱 I visited and exchanged at Harvard University learning big data and machine learning, which benefited me a lot.
 - 🔬 I also spent time working at HUAWEI Technologies, Ximalaya, OpenMMLab of Shanghai AI Lab, and Baidu.
-- 🔭 I worked on Healthcare Informatics, Data Science & AI for Medicine.
 - 📫 How to reach me: toryshi@outlook.com.
 
 <!--
