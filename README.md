@@ -22,7 +22,7 @@ I'm currently a master‘s student at **Peking University**, and I received my B
 
 - 🔭 I worked on **Data Science & Artificial Intelligence for Healthcare & Medicine**.
 - 🌱 I visited and exchanged at **Harvard University** learning big data and machine learning in 2022.
-- 🔬 I also interned at **HUAWEI Technologies.**, **Baidu Inc.**, **Ximalaya Inc.**, and **OpenMMLab of Shanghai AI Lab**.
+- 🔬 I also interned at **Baidu Inc.**, **Ximalaya Inc.**, **HUAWEI Technologies.**, and **OpenMMLab of Shanghai AI Lab**.
 - 📫 How to reach me: *tyshipku@gmail.com*.
 
 <!--
