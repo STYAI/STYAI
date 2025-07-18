@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 I'm currently a master‘s student at **Peking University**, and I received my Bachelor’s degree in **Computer Science** in June 2023.
 
-- 🔭 I worked on **Data Science & Artificial Intelligence for Healthcare & Medicine**.
-- 🌱 I visited and exchanged at **Harvard University** learning big data and machine learning in 2022.
+- 🔭 I worked on **Artificial Intelligence & Data Science for Healthcare & Medicine**.
+- 🌱 I visited and exchanged at **Harvard University** major in Big Data and Machine Learning, and got A/Dstinct grade.
 - 🔬 I also interned at **Baidu Inc.**, **Ximalaya Inc.**, **HUAWEI Technologies.**, and **OpenMMLab of Shanghai AI Lab**.
 - 📫 How to reach me: *tyshipku@gmail.com*.
 
