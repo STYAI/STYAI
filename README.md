@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://github.com/STYAI)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
 
-I'm currently a master‘s student at **Peking University**, and I received my Bachelor’s degree in **Computer Science** in June 2023.
+I'm currently at **Peking University**, and I received my Bachelor’s degree in **Computer Science** in June 2023.
 
 - 🔭 I worked on **Artificial Intelligence & Data Science for Healthcare & Medicine**.
 - 🌱 I visited and exchanged at **Harvard University** major in Big Data and Machine Learning, and got A/Dstinct grade.
